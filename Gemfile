@@ -43,6 +43,7 @@ gem 'unicorn'
 ## ADDED
 
 gem 'bootstrap-sass'
+gem 'stock_quote'
 
 ## HEROKU
 
